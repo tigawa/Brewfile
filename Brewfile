@@ -48,7 +48,6 @@ brew ruby-build
 brew vim
 brew wget
 brew zsh --disable-etcdir
-brew gradle
 
 # App Store applications
 appstore Evernote
