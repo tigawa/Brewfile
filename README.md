@@ -3,8 +3,7 @@
 
 1. Homebrewをインストール
 2. Homebrew-fileをインストール
-
-   brew install rcmdnk/file/brew-file
+      brew install rcmdnk/file/brew-file
    
 3. Brewfileのリポジトリを登録
 4. brew file install を実行する
