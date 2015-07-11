@@ -1,4 +1,5 @@
 # Brewfile
+## 新規PCにインストールする方法
 新しいPCにBrewfileを元に同じパッケージで環境を構築したい場合は、以下の順番で実行する必要があります。
 
 1. Homebrewをインストール  
@@ -15,7 +16,13 @@
    ```
    brew file install
    ```
- 
+   
+## パッケージの追加イントール
+パッケージをインストールした後に、以下のコマンドを実行してBrefileを更新します。
+
+   ```
+   brew file update
+   ```
 
 # 参考サイト
 * http://www.task-notes.com/entry/20150316/1426474800
