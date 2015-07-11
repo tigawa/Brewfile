@@ -51,5 +51,12 @@ brew zsh --disable-etcdir
 
 # App Store applications
 appstore Evernote
+appstore Free AVCHD to Mov
+appstore iMovie
+appstore iPhoto
+appstore Keynote
+appstore Numbers
+appstore Pages
 appstore Pomodoro One
+appstore The Unarchiver
 appstore Xcode
